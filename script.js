@@ -55,24 +55,7 @@ ulList.addEventListener("click",function(e){
     e.target.childNodes[1].style.display="block"
     
 
-    // if(e.target.classList.contains("listt")){
-    //     e.target.style.backgroundColor="#17c0eb";
-    //     e.target.childNodes[1].style.display="block"
-    //     // e.target.classList.add("ticket");
-    //     // e.target.classList.remove("listt")
-    // }
-    // if(e.target.classList.contains("ticket")){
-    //     e.target.style.backgroundColor="grey";
-    //     e.target.childNodes[1].style.display="none"
-    //     e.target.classList.remove("ticket")
-    //     e.target.classList.add("listt")
-    // }
-    // if(e.target.classList.contains("ticket")){
-        
-    //     e.target.style.backgroundColor="grey";
-    //     e.target.childNodes[1].style.display="none"
-    //     e.target.classList.remove("ticket")
-    // }
+   
     
 
     
